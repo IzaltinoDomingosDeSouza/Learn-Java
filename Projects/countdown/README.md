@@ -7,4 +7,5 @@
 
 ## Build and run
 javac -d bin src/Countdown.java
+
 java -cp bin Countdown
